@@ -240,7 +240,7 @@ I have some additional cool features and also I can work in channels.
 
 My father - @KILLXCODER & @TAMILAN444
 
-Don't forget to join my [channel] (http://t.me/iamgrootbotz). to recieve information on all the latest updates.
+Don't forget to join my channel @IAMGROOTBOTZ to recieve information on all the latest updates.
 
 Hit /help to find out my commands and the use of them.
 '''
