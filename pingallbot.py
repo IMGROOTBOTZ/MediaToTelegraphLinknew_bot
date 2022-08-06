@@ -233,8 +233,8 @@ async def bots(client, message):
 @teletips.on_message(filters.command("start") & filters.private)
 async def start(client, message):
   text = f'''
-Heya {message.from_user.mention},
-My name is **PingAll**. I'm here to help you to get everyone's attention by mentioning all members in your chat.
+Hey {message.from_user.mention},
+My name is **•°¯`•• 𝔱α𝓖Ⓐ𝐋𝔩𝐌Ⓔм𝐁𝔼Ⓡ𝔹๏𝕥 ••´¯°•**. I'm here to help you to get everyone's attention by mentioning all members in your chat.
 
 I have some additional cool features and also I can work in channels.
 
